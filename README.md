@@ -28,7 +28,7 @@ This index is the central navigation point for the AI delivery playbook. Use it 
 | **04** | [4-delivery-timeline-plan.md](./4-delivery-timeline-plan.md) | Execute the 12-week delivery plan | Milestones, owners, dependencies, status |
 | **05** | [5-ai-platform-roadmap.md](./5-ai-platform-roadmap.md) | Align the 12-month AI program | Foundation, platform build, use-case delivery, scale |
 | **06** | [6-rm-assistant-project.md](./6-rm-assistant-project.md) | Reference flagship use case architecture | RM assistant, RAG, CRM, banking advisory |
-| **07** | [7-gpt6-rollout-plan.md](./7-gpt6-rollout-plan.md) | Plan safe model upgrades | GPT-6 migration, shadow testing, guardrails |
+| **07** | [7-new-frontier-rollout-plan.md](./7-new-frontier-rollout-plan.md) | Plan safe model upgrades | GPT migration, shadow testing, guardrails |
 | **08** | [8-platform-kpi-target.md](./8-platform-kpi-target.md) | Track platform KPIs and value metrics | Infrastructure, application, AI, business outcomes |
 | **09** | [9-enterprise-layered-design.md](./9-enterprise-layered-design.md) | Define layered platform architecture | API, orchestration, knowledge, model, security, observability |
 | **10** | [10-comprehensive-ai-delivery-framework.md](./10-comprehensive-ai-delivery-framework.md) | Master program framework | Initiatives, budget, governance, RAID, backlog |
@@ -49,7 +49,7 @@ This index is the central navigation point for the AI delivery playbook. Use it 
 - **05 Roadmap** sets the 12-month direction.
 - **03 Tech Matrix** grounds the roadmap in Azure service choices.
 - **06 RM Assistant** illustrates the flagship use case architecture and integration pattern.
-- **07 GPT-6 Rollout** ensures model upgrades fit into the platform’s lifecycle.
+- **07 GPT Rollout** ensures model upgrades fit into the platform’s lifecycle.
 
 ### Architecture to implementation
 
@@ -80,7 +80,7 @@ This index is the central navigation point for the AI delivery playbook. Use it 
 ### 06 — RM Assistant Project
 > Use as a flagship reference use case. Focus: banking advisory, RAG, CRM integration, and grounded AI delivery.
 
-### 07 — GPT-6 Rollout Plan
+### 07 — GPT Rollout Plan
 > Use when planning a model upgrade. Focus: compliance, shadow testing, alignment, and canary rollout.
 
 ### 08 — Platform KPI Targets
